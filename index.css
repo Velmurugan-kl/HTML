@@ -9,3 +9,12 @@
 .pa {
   font-family: "Kalnia Glaze", serif;
 }
+
+div{
+    display: inline-block;
+    background-color: aliceblue;
+    height: 50px;
+}
+p{
+    display: inline;
+}
